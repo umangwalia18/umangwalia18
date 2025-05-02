@@ -19,7 +19,7 @@ I’m open to collaborating on **cloud-native projects**, **SRE best practices**
 
 ## 📫 How to Reach Me  
 - **GitHub:** [@umangwalia18](https://github.com/umangwalia18)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/umangwalia/)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/umangwalia/)  
 - **Email:** umangwalia09@gmail.com  
 
 ## 😄 Pronouns  
